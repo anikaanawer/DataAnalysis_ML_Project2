@@ -12,7 +12,7 @@ This project aims to forecast the levels of Carbon Monoxide (CO) and Nitrogen Di
 - Loaded and cleaned the dataset.
 - Addressed missing values through interpolation techniques.
 - Normalized and scaled features for model readiness.
-- [View Notebook](notebooks/https://github.com/anikaanawer/DataAnalysis_ML_Project3/blob/main/Sentiment_Analysis_on_Amazon_Product_Reviews.ipynb)
+- [View Notebook](notebooks/https://github.com/anikaanawer/DataAnalysis_ML_Project2/blob/main/Time_Series_Forecasting_of_Carbon_Monoxide_and_Nitrogen_Dioxide_Levels.ipynb)
 
 ---
 
